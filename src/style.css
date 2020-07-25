@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content {
+  max-width: 700px;
+  @apply mx-auto p-2;
+}
